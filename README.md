@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am B.Tech CSE Student at Lovely Professional University.<br>Currently I am learning Java.
+I am B.Tech CSE Student at Lovely Professional University.<br>Currently I am learning Kotlin.
 
 
 ## 🌐 Socials:
