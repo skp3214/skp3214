@@ -1,11 +1,5 @@
 # 💫 About Me:
-<img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="200" />
-
-
-
-
-
-I am B.Tech CSE Student at Lovely Professional University.<br>Currently I am learning React Basic.
+<img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="300" /> I am B.Tech CSE Student at Lovely Professional University.<br>Currently I am learning React Basic.
 
 
 ## 🌐 Socials:
