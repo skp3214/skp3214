@@ -1,5 +1,7 @@
 # 💫 About Me:
-![SACHIN](https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c)
+<img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="50" />
+
+
 
 
 
