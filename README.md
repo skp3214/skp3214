@@ -3,7 +3,7 @@
 <img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="200" /> 
 </p>
 
-<p align="center" >
+<p align="left">
 1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics. <br>
 2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton. <br>
 3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript. <br>
