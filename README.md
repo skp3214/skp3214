@@ -1,9 +1,16 @@
 <h2 align="center"> About Me </h2>
 <p align="center">
-<img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="250" /> 
+<img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="200" /> 
 </p>
 
-<p align="center" >I am B.Tech CSE Student at Lovely Professional University.<br>Currently I am learning React Basic.</p>
+<p align="center" >
+1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics.
+2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.
+3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.
+4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends.
+5. Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.
+6. Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+</p>
 
 
 ## 🌐 Socials:
