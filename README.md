@@ -4,12 +4,12 @@
 </p>
 
 <p align="center" >
-1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics.
-2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.
-3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.
-4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends.
-5. Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.
-6. Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics. <br>
+2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton. <br>
+3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript. <br>
+4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends. <br>
+5. Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise. <br>
+6. Committed to continuous improvement and eager to collaborate on impactful projects in the tech world. <br>
 </p>
 
 
