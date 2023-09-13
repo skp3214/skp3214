@@ -1,7 +1,11 @@
 <h1 align="center"> About Me </h1>
-<p align="left">
+
+![g3](https://github.com/skp3214/skp3214/assets/95349420/784d4639-6184-4fc9-b7cb-4797f070529f)
+
+
+<!-- <p align="left">
 <img src="https://github.com/skp3214/skp3214/assets/95349420/8df8b7c6-60d1-4454-9950-a48da46ceb3c" width="200" /> 
-</p>
+</p> -->
 
 <p align="left">
 1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics. <br>
