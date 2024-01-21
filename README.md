@@ -9,7 +9,7 @@
 </p> -->
 
 <p align="left">
-1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning React basics. <br>
+1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning Java Full Stack. <br>
 2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton. <br>
 3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript. <br>
 4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends. <br>
@@ -22,7 +22,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skprajapati3215/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skp3214/) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23121011.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23660708.svg?style=for-the-badge&logo=react&logoColor=white) ![C++](https://img.shields.io/badge/c++-%23161a1d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/javascript-333d29?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%23087e8b.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%233c226d.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23ba181b.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%23023e8a.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skp3214&theme=dark&hide_border=false)<br/>
@@ -36,9 +37,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=skp3214&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skp3214&icon=2&color=0)](https://visitcount.itsvg.in)
