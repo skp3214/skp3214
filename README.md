@@ -1,6 +1,7 @@
 <h1 align="center"> About Me </h1>
 
-![g3](https://github.com/skp3214/skp3214/assets/95349420/784d4639-6184-4fc9-b7cb-4797f070529f)
+![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
+
 
 
 <!-- <p align="left">
