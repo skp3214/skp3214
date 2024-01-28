@@ -2,7 +2,12 @@
 
 ![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
 
- 1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning Java Full Stack.<br>2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.<br>3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.<br>4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends.<br>5. Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.<br>6. Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+ > 1. Tech enthusiast from Balrampur, Uttar Pradesh, currently learning Java Full Stack.<br>
+ > 2. Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.<br>
+ > 3. Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.<br>
+ > 4. Enthusiastic about exploring emerging technologies and staying updated with the latest trends.<br>
+ > 5. Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.<br>
+ > 6. Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
 
 
 ## 🌐 Socials:
