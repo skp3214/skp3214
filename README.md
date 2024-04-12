@@ -1,4 +1,4 @@
-### Hii 👋 I am Sachin Prajapati
+## Hii 👋 I am Sachin Prajapati
 
 ![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
 
@@ -22,6 +22,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=skp3214)
+
+![](https://profile-summary-for-github.com/user/skp3214)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flag-india)
