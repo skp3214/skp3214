@@ -23,9 +23,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=skp3214)
 
-## let'see
-![](https://profile-summary-for-github.com/user/skp3214)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flag-india)
