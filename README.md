@@ -1,9 +1,14 @@
-# 💫 Hii 👋 I am Sachin Prajapati:
-![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)<br><br> 
-> - Tech enthusiast from Balrampur, Uttar Pradesh, currently learning Java Full Stack.<br><br> > - Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.
-> - Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.<br><br>
-> - Enthusiastic about exploring emerging technologies and staying updated with the latest trends.<br><br>
-> - Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.<br><br> > - Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+## Hii 👋 I am Sachin Prajapati
+
+![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
+
+ > - Tech enthusiast from Balrampur, Uttar Pradesh, currently learning Java Full Stack.<br>
+ > - Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.<br>
+ > - Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.<br>
+ > - Enthusiastic about exploring emerging technologies and staying updated with the latest trends.<br>
+ > - Experienced in developing projects in Java, JavaSwing, HTML, and CSS, showcasing technical expertise.<br>
+ > - Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+
 
 
 ## 🌐 Socials:
@@ -17,18 +22,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skp3214&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=skp3214)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flag-india)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=skp3214&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=skp3214&limit=10&theme=flag-india&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=skp3214&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=skp3214&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
