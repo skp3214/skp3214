@@ -2,12 +2,20 @@
 
 ![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
 
- > - Tech enthusiast from Balrampur, Uttar Pradesh, currently MongoDB.<br>
- > - Academic journey in computer science, with a passion for sports, including cricket, football, and badminton.<br>
- > - Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, with skills in Java, JavaSwing, HTML, CSS, and JavaScript.<br>
- > - Enthusiastic about exploring emerging technologies and staying updated with the latest trends.<br>
- > - Experienced in developing projects.<br>
- > - Committed to continuous improvement and eager to collaborate on impactful projects in the tech world.
+
+---
+
+👋 Hi there! I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently diving into MongoDB.
+
+🎓 Pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University. 
+
+⚽ Passionate about sports like cricket, football, and badminton, I bring the same enthusiasm to technology. I'm always exploring emerging technologies and staying updated with the latest trends.
+
+💡 Experienced in developing various projects, I'm committed to continuous improvement and eager to collaborate on impactful tech ventures.
+
+Let's connect and build something amazing together!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skp3214) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skp3214) 
