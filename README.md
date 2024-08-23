@@ -5,7 +5,7 @@
 
 ---
 
-👋 Hi there! I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently diving into MongoDB.
+👋 Hi there! I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am learning PHP and Laravel Development.
 
 🎓 Pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University. 
 
