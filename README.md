@@ -1,6 +1,6 @@
 # Hii 👋 I am Sachin Prajapati
 
-![SachinBanner](https://github.com/skp3214/skp3214/assets/95349420/a4008b80-9924-4c2d-833a-7c5e280d841e)
+![skp3214](https://github.com/user-attachments/assets/39198acb-4c0b-4221-95c7-62b525247323)
 
 
 ---
