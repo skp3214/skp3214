@@ -1,4 +1,4 @@
-# Hii 👋 I am Sachin Prajapati
+# Welcome to My World of Tech Mastery
 
 ![g](https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3)
 
