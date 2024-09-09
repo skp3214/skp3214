@@ -1,18 +1,16 @@
 # Welcome to My World of Tech Mastery
 
-<img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="400" />
+<img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" />
 
 ---
 
-👋 Hi there! I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am learning PHP and Laravel Development.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently learning PHP and Laravel.
 
-🎓 Pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University. 
+🎓 B.Tech in Computer Science at Lovely Professional University.
 
-⚽ Passionate about sports like cricket, football, and badminton, I bring the same enthusiasm to technology. I'm always exploring emerging technologies and staying updated with the latest trends.
+💡 Experienced in various tech projects and always open to collaboration.
 
-💡 Experienced in developing various projects, I'm committed to continuous improvement and eager to collaborate on impactful tech ventures.
-
-Let's connect and build something amazing together!
+Let’s connect and create something amazing!
 
 ---
 
