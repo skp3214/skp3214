@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently learning PHP and Laravel and Robotics Process Automation.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on advance E-Commerce(ShopVibe) website using TypeScript.
 
 🎓 B.Tech in Computer Science at Lovely Professional University.
 
