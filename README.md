@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on advance E-Commerce(ShopVibe) website using TypeScript.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on FinancePal using Kotlin and Firebase.
 
 🎓 Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University.
 
