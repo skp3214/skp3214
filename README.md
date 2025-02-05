@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on FinancePal using Kotlin and Firebase.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on ClipJoy (short content sharing website).
 
 🎓 Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University.
 
