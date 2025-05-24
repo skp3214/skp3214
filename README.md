@@ -1,4 +1,3 @@
-# Welcome to My World of Tech Mastery
 
 <img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" />
 
