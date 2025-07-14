@@ -3,9 +3,9 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am working on ClipJoy (short content sharing website).
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am learning LLD.
 
-🎓 Pursuing B.Tech in Computer Science and Engineering at Lovely Professional University.
+🎓 Pursued B.Tech in Computer Science and Engineering at Lovely Professional University.
 
 💡 Experienced in various tech projects and always open to collaboration.
 
