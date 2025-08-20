@@ -3,7 +3,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am learning LLD.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am learning Gen AI.
 
 🎓 Pursued B.Tech in Computer Science and Engineering at Lovely Professional University.
 
