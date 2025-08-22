@@ -3,7 +3,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am Preparing for GATE.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am Preparing for GATE 2026.
 
 🎓 Pursued B.Tech in Computer Science and Engineering at Lovely Professional University.
 
