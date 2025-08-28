@@ -30,14 +30,6 @@ Let’s connect and create something amazing!
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/skprajapati3214)](https://leetcode.com/skprajapati3214/)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/skp3214?style=social&logo=followers)](https://github.com/skp3214?tab=followers)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=skp3214&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skp3214&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Languages and Tools:
 
@@ -107,6 +99,16 @@ Let’s connect and create something amazing!
 [![App Development](https://img.shields.io/badge/App%20Development-Projects-yellow?style=for-the-badge&logo=googlecloud&logoColor=white)](/appdev.md) 
 [![Desktop App Development](https://img.shields.io/badge/Desktop%20App%20Development-Projects-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](/desktopdev.md)
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=skp3214&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=skp3214&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
