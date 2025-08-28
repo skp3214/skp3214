@@ -1,0 +1,7 @@
+## Desktop App Development Project
+
+| Project Name |Github | Tech Stack| 
+|---------------|---------------|---------------|
+|FITNESS CALCULATOR | [![GitHub](https://img.shields.io/badge/github%20Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skp3214/FitnessCalculator.git)  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/tkinter-1b263b.svg?style=for-the-badge&logo=python&logoColor=white)|
+|HOLIDAY SCHEDULER | [![GitHub](https://img.shields.io/badge/github%20Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skp3214/HolidayScheduler.git)  |![Java Swing](https://img.shields.io/badge/java-Swing-0077b6.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+|LPU ACADEMIC CALCULATOR | [![GitHub](https://img.shields.io/badge/github%20Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skp3214/LPUAcademicCalculator.git)  |![Java Swing](https://img.shields.io/badge/java-Swing-0077b6.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
