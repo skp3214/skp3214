@@ -88,12 +88,12 @@ Let’s connect and create something amazing!
 ![Perplexity](https://img.shields.io/badge/Perplexity-%230000FF.svg?style=for-the-badge&logo=question&logoColor=white)
 
 
-# ☁️ Google Cloud Profile & Gen AI Badges
+# Google Cloud Profile & Gen AI Badges
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-Profile-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/f7f49c59-0076-4d02-af8d-a33303d78d05)
 
 
-# 🚀 Projects & Learning Topics
+# Projects & Learning Topics
 
 [![Web Development](https://img.shields.io/badge/Web%20Development-Projects-green?style=for-the-badge&logo=googlecloud&logoColor=white)](/webdev.md) 
 [![App Development](https://img.shields.io/badge/App%20Development-Projects-yellow?style=for-the-badge&logo=googlecloud&logoColor=white)](/appdev.md) 
