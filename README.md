@@ -3,7 +3,7 @@
 
 ---
 
-👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am Learning Gen Ai.
+👋 Hi, I'm a tech enthusiast from Balrampur, Uttar Pradesh, currently I am Learning NextJS.
 
 🎓 Pursued B.Tech in Computer Science and Engineering at Lovely Professional University.
 
