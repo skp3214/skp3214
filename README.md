@@ -5,7 +5,17 @@
 
 <img width="2664" height="855" alt="image" src="https://github.com/user-attachments/assets/b653eb65-4ed9-488f-bcf3-f05ad990e53c" />
 
+## Hi there 👋
 
+This is the place where I build things, experiment with ideas, and sometimes break stuff 😄
+
+- 🔭 I'm a Full-Stack Developer who enjoys designing, developing, and deploying web applications
+- 🌱 Currently improving my skills in modern web technologies and backend systems
+- 💬 Ask me about JavaScript, Python, Java, APIs, and full-stack development
+- 👨‍💻 I love solving problems and turning ideas into working products
+- ⚡ Fun fact: I enjoy debugging as much as building 🚀
+
+Let's connect and create something amazing! ✨
 
 ## 🌐 Socials:
 <table border="3" radius="20">
@@ -99,7 +109,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/skp3214/skp3214/output/dist/snake.svg" alt="Snake animation" />
 
 
 ### Hobby
