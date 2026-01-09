@@ -1,15 +1,11 @@
 
 <!-- <img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" /> -->
 <!-- <img width="2048" height="512" alt="neonskp3214" src="https://github.com/user-attachments/assets/a4deb862-102a-440f-9043-a0eb389c1041" /> -->
-<img width="1627" height="501" alt="image" src="https://github.com/user-attachments/assets/853400a6-6af8-4c99-a4af-905dadc2b98d" />
+<!-- <img width="1627" height="501" alt="image" src="https://github.com/user-attachments/assets/853400a6-6af8-4c99-a4af-905dadc2b98d" /> -->
+
+<img width="2664" height="855" alt="image" src="https://github.com/user-attachments/assets/b653eb65-4ed9-488f-bcf3-f05ad990e53c" />
 
 
-Highly motivated and results-driven Full-Stack Developer with a proven ability to design, develop, and deploy web applications using a diverse programming languages including JavaScript, Python, Java and modern databases.
-Eager to leverage comprehensive project experience and problem-solving skills to contribute effectively to innovative software development teams.
-
-Let’s connect and create something amazing!
-
----
 
 ## 🌐 Socials:
 <table border="3" radius="20">
@@ -85,21 +81,26 @@ Let’s connect and create something amazing!
 ![Gemini](https://img.shields.io/badge/Gemini-%23007BFF.svg?style=for-the-badge&logo=Google&logoColor=white)
 
 
-# Google Cloud Profile & Gen AI Badges
+#### Google Cloud Profile & Gen AI Badges
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-Profile-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/f7f49c59-0076-4d02-af8d-a33303d78d05)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=skp3214&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skp3214&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=skp3214&theme=flag-india&show_icons=true)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skp3214&theme=flag-india&layout=compact)<br>
+![](https://streak-stats.demolab.com?user=skp3214&theme=flag-india&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skp3214&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=skp3214&theme=flat)
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skp3214&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ### Hobby
 ##### App Development
