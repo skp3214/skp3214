@@ -37,15 +37,10 @@ Let's connect and create something amazing! ✨
 ##### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
 </p>
 
@@ -53,64 +48,41 @@ Let's connect and create something amazing! ✨
 ###### FrontEnd Development
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
-  <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
 </p>
 
 ###### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
 </p>
 
 ##### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pinecone" height="50" alt="pinecone logo" />
 </p>
 
 ##### Tools and Services
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=appwrite" height="50" alt="appwrite logo" />
-  <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudinary logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
 </p>
 
@@ -122,11 +94,8 @@ Let's connect and create something amazing! ✨
 ##### 🎯 Hobby - App Development
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="android logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gradle" height="50" alt="gradle logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
 </p>
 
