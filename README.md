@@ -58,9 +58,6 @@ Let's connect and create something amazing! ✨
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react native logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=expo" height="50" alt="expo logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
 </p>
@@ -107,7 +104,6 @@ Let's connect and create something amazing! ✨
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=appwrite" height="50" alt="appwrite logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stripe" height="50" alt="stripe logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
   <img width="12" />
@@ -146,6 +142,7 @@ Let's connect and create something amazing! ✨
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=skp3214&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
 
 <img src="https://raw.githubusercontent.com/skp3214/skp3214/output/snake.svg" alt="Snake animation" />
 
