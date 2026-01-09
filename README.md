@@ -1,8 +1,8 @@
 
-<img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" />
+<!-- <img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" /> -->
 <!-- <img width="2048" height="512" alt="neonskp3214" src="https://github.com/user-attachments/assets/a4deb862-102a-440f-9043-a0eb389c1041" /> -->
+<img width="1627" height="501" alt="image" src="https://github.com/user-attachments/assets/853400a6-6af8-4c99-a4af-905dadc2b98d" />
 
----
 
 Highly motivated and results-driven Full-Stack Developer with a proven ability to design, develop, and deploy web applications using a diverse programming languages including JavaScript, Python, Java and modern databases.
 Eager to leverage comprehensive project experience and problem-solving skills to contribute effectively to innovative software development teams.
