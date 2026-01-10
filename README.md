@@ -2,11 +2,14 @@
 <!-- <img width="2048" height="512" alt="neonskp3214" src="https://github.com/user-attachments/assets/a4deb862-102a-440f-9043-a0eb389c1041" /> -->
 <!-- <img width="1627" height="501" alt="image" src="https://github.com/user-attachments/assets/853400a6-6af8-4c99-a4af-905dadc2b98d" /> -->
 
-<img width="2664" height="855" alt="image" src="https://github.com/user-attachments/assets/b653eb65-4ed9-488f-bcf3-f05ad990e53c" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 
 ## Hi there 👋
 
-This is the place where I build things, experiment with ideas, and sometimes break stuff 😄
+This is the place where I build things, experiment with ideas.
 
 - 🔭 I'm a Full-Stack Developer who enjoys designing, developing, and deploying web applications
 - 🌱 Currently improving my skills in modern web technologies and backend systems
@@ -33,46 +36,37 @@ Let's connect and create something amazing! ✨
 ---
 
 # 💻 Languages and Tools
-
-##### Programming Languages
-<p>
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="c++ logo" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo" />
-</p>
-
-##### Web Development
-###### FrontEnd Development
-<p>
+  <img width="12">
+  <img width="12">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
-</p>
-
-###### Backend Development
-<p>
+  <img width="12">
+  <img width="12">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
-</p>
-
-##### Databases
-<p>
+  <img width="12">
+  <img width="12">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=pinecone" height="50" alt="pinecone logo" />
-</p>
-
-##### Tools and Services
-<p>
+  <img width="12">
+  <img width="12">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
@@ -84,20 +78,14 @@ Let's connect and create something amazing! ✨
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudinary logo" />
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo" />
-</p>
-
-##### GenAI & Cloud
-<p>
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp logo" />
-</p>
-
-##### 🎯 Hobby - App Development
-<p>
+  <img width="12">
+  <img width="12">
+  <img width="12">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="android logo" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo" />
   <img src="https://skillicons.dev/icons?i=gradle" height="50" alt="gradle logo" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
-</p>
 
 ---
 
@@ -119,6 +107,16 @@ Let's connect and create something amazing! ✨
 
 ---
 
+### ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
