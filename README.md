@@ -1,15 +1,9 @@
-<!-- <img src="https://github.com/user-attachments/assets/86295a53-99e6-400f-ace4-ce49973570e3" alt="Image description" width="1020" height="350" /> -->
-<!-- <img width="2048" height="512" alt="neonskp3214" src="https://github.com/user-attachments/assets/a4deb862-102a-440f-9043-a0eb389c1041" /> -->
-<!-- <img width="1627" height="501" alt="image" src="https://github.com/user-attachments/assets/853400a6-6af8-4c99-a4af-905dadc2b98d" /> -->
+
+<img width="2879" height="746" alt="image" src="https://github.com/user-attachments/assets/65bb5423-958b-4775-8fa4-1d648357b236" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+Open+Source+Enthusiast;Learning+Something+New/Old+Daily;" alt="Typing SVG" />
 </p>
-
-
-## Hi there 👋
-
-This is the place where I build things, experiment with ideas.
 
 - 🔭 I'm a Full-Stack Developer who enjoys designing, developing, and deploying web applications
 - 🌱 Currently improving my skills in modern web technologies and backend systems
