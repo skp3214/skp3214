@@ -1,9 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7c957&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+Open+Source+Enthusiast;Learning+Something+New/Old+Daily;" alt="Typing SVG" />
+</p>
 
 <img width="2879" height="746" alt="image" src="https://github.com/user-attachments/assets/65bb5423-958b-4775-8fa4-1d648357b236" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Aspiring+Open+Source+Enthusiast;Learning+Something+New/Old+Daily;" alt="Typing SVG" />
-</p>
 
 - 🔭 I'm a Full-Stack Developer who enjoys designing, developing, and deploying web applications
 - 🌱 Currently improving my skills in modern web technologies and backend systems
