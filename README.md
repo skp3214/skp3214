@@ -75,9 +75,9 @@ Let's connect and create something amazing! ✨
 
 **🐱 My GitHub Data** 
 
-> 📦 306.0 kB Used in GitHub's Storage 
+> 📦 306.3 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2026
+> 🏆 73 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,6 +85,42 @@ Let's connect and create something amazing! ✨
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                452 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌃 Evening                803 commits         ███████████░░░░░░░░░░░░░░   45.37 % 
+🌙 Night                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  278 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Friday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -98,7 +134,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 19:02:06 UTC
+ Last Updated on 16/02/2026 17:16:03 UTC
 <!--END_SECTION:waka-->
 
 ---
