@@ -71,13 +71,13 @@ Let's connect and create something amazing! ✨
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-557.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-557.60%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 315.1 kB Used in GitHub's Storage 
+> 📦 316.0 kB Used in GitHub's Storage 
  > 
-> 🏆 117 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,21 +88,21 @@ Let's connect and create something amazing! ✨
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                418 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-🌃 Evening                793 commits         ███████████░░░░░░░░░░░░░░   45.55 % 
-🌙 Night                  229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+🌃 Evening                795 commits         ███████████░░░░░░░░░░░░░░   45.56 % 
+🌙 Night                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Sunday                   246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Monday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Saturday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
 
@@ -112,13 +112,13 @@ Sunday                   246 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LINQ                     13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -134,7 +134,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2026 20:06:52 UTC
+ Last Updated on 21/06/2026 20:13:21 UTC
 <!--END_SECTION:waka-->
 
 ---
