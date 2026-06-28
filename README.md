@@ -75,9 +75,9 @@ Let's connect and create something amazing! ✨
 
 **🐱 My GitHub Data** 
 
-> 📦 316.0 kB Used in GitHub's Storage 
+> 📦 316.3 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2026
+> 🏆 122 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,20 +88,20 @@ Let's connect and create something amazing! ✨
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-🌃 Evening                795 commits         ███████████░░░░░░░░░░░░░░   45.56 % 
-🌙 Night                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌃 Evening                795 commits         ███████████░░░░░░░░░░░░░░   45.53 % 
+🌙 Night                  231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Monday                   271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Saturday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
@@ -112,13 +112,13 @@ Sunday                   247 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   100.00 % 
+JSON                     31 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LINQ                     13 mins             █████████████████████████   100.00 % 
+Personal Project         31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -134,7 +134,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2026 20:13:21 UTC
+ Last Updated on 28/06/2026 19:55:21 UTC
 <!--END_SECTION:waka-->
 
 ---
