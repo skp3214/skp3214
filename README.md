@@ -71,13 +71,13 @@ Let's connect and create something amazing! ✨
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-557.60%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-557.78%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 318.1 kB Used in GitHub's Storage 
+> 📦 317.8 kB Used in GitHub's Storage 
  > 
-> 🏆 130 Contributions in the Year 2026
+> 🏆 133 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,21 +88,21 @@ Let's connect and create something amazing! ✨
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-🌃 Evening                795 commits         ███████████░░░░░░░░░░░░░░   45.32 % 
-🌙 Night                  239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌃 Evening                797 commits         ███████████░░░░░░░░░░░░░░   45.36 % 
+🌙 Night                  240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Saturday                 252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -112,19 +112,34 @@ Sunday                   247 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Personal Project         23 mins             ████████████████████████░   97.08 % 
+locales                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 mins (99.56%)
+
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 28 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,128 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -140,7 +155,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:19 UTC
+ Last Updated on 30/08/2026 21:24:28 UTC
 <!--END_SECTION:waka-->
 
 ---
