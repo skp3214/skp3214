@@ -75,9 +75,9 @@ Let's connect and create something amazing! ✨
 
 **🐱 My GitHub Data** 
 
-> 📦 318.9 kB Used in GitHub's Storage 
+> 📦 318.6 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2026
+> 🏆 137 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,20 +88,20 @@ Let's connect and create something amazing! ✨
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌃 Evening                797 commits         ███████████░░░░░░░░░░░░░░   45.28 % 
-🌙 Night                  243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌃 Evening                797 commits         ███████████░░░░░░░░░░░░░░   45.26 % 
+🌙 Night                  244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Monday                   284 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Saturday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 ```
 
@@ -112,19 +112,38 @@ Sunday                   247 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Image (png)              1 hr 21 mins        ███████████████████░░░░░░   76.23 % 
+Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity Desktop      1 hr 36 mins        ██████████████████████░░░   89.88 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SpendTrack               1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 43 mins (96.69%)
+
+✍️ 2,041 lines written by AI, 7 lines written by hand (99.66% AI-written)
+
+🔤 1,480,313 Input Tokens, 68,826 Output Tokens
+
+💵 $3.72 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+Gemini                   2,041 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.66% of written lines came from AI
+📄 Detailed Prompter — average 561 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -140,7 +159,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:00:50 UTC
+ Last Updated on 27/09/2026 21:32:44 UTC
 <!--END_SECTION:waka-->
 
 ---
