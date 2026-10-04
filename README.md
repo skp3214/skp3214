@@ -75,9 +75,9 @@ Let's connect and create something amazing! ✨
 
 **🐱 My GitHub Data** 
 
-> 📦 318.6 kB Used in GitHub's Storage 
+> 📦 318.9 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,21 +88,21 @@ Let's connect and create something amazing! ✨
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-🌃 Evening                797 commits         ███████████░░░░░░░░░░░░░░   45.26 % 
-🌙 Night                  244 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+🌞 Morning                301 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌆 Daytime                419 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌃 Evening                797 commits         ███████████░░░░░░░░░░░░░░   45.23 % 
+🌙 Night                  245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   284 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Monday                   285 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Saturday                 254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Sunday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -112,38 +112,42 @@ Sunday                   247 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Image (png)              1 hr 21 mins        ███████████████████░░░░░░   76.23 % 
-Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Markdown                 1 hr 9 mins         █████████████░░░░░░░░░░░░   53.82 % 
+Git Config               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+C#                       11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 36 mins        ██████████████████████░░░   89.88 % 
-VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Antigravity Desktop      1 hr 33 mins        ██████████████████░░░░░░░   72.30 % 
+VS Code                  35 mins             ███████░░░░░░░░░░░░░░░░░░   27.70 % 
 
 🐱‍💻 Projects: 
-SpendTrack               1 hr 47 mins        █████████████████████████   100.00 % 
+OmniTask                 2 hrs 2 mins        ████████████████████████░   94.51 % 
+SpendTrack               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (96.69%)
+⏱ AI Coding Time: 2 hrs (93.29%)
 
-✍️ 2,041 lines written by AI, 7 lines written by hand (99.66% AI-written)
+✍️ 2,913 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 1,480,313 Input Tokens, 68,826 Output Tokens
+🔤 2,080,931 Input Tokens, 54,157 Output Tokens
 
-💵 $3.72 Estimated AI Cost This Week
+💵 $4.79 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 34 AI Prompts
 
-Gemini                   2,041 lines         █████████████████████████   100.00 % 
+Gemini                   2,913 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📄 Detailed Prompter — average 561 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 3,536 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -159,7 +163,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:32:44 UTC
+ Last Updated on 04/10/2026 21:47:46 UTC
 <!--END_SECTION:waka-->
 
 ---
